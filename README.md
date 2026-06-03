@@ -93,15 +93,15 @@ A full-stack rental booking platform inspired by Airbnb.
 # 📊 GitHub Stats
 
 
-![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RounakAgarwal1&show_icons=true&theme=tokyonight)
+![Rounak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RounakKumarAgarwal&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RounakAgarwal1&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RounakkumarAgarwal&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RounakKumarAgarwal1&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=RounakKumarAgarwal&theme=tokyonight)
 
 ---
 

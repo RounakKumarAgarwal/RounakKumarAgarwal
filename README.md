@@ -101,7 +101,7 @@ A full-stack rental booking platform inspired by Airbnb.
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RounakAgarwal1&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=RounakKumarAgarwal1&theme=tokyonight)
 
 ---
 

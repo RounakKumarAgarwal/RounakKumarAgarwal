@@ -16,7 +16,7 @@ I enjoy turning ideas into real-world products and continuously learning modern 
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/RounakAgarwal1
-- LinkedIn: https://linkedin.com/in/rounak-kumar-agarwal-39b429338/
+- LinkedIn: https://www.linkedin.com/in/rounak-kumar-agarwal/
 - Email: agarwalrounak2005@gmail.com
 
 ---

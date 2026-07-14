@@ -324,7 +324,6 @@ A browser-based memory game developed using JavaScript that challenges users to 
 
 </div>
 
-> **Note:** This animation needs a small one-time setup: create a repo named exactly `RounakKumarAgarwal` (a "profile repo"), then add the [platane/snk](https://github.com/Platane/snk) GitHub Action to it so it generates the `output` branch and SVG automatically. Until that's set up, this image won't render.
 
 ---
 

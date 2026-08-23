@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:7F5AF0&text=Rounak%20Kumar%20Agarwal&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+%7C+DSA+Enthusiast;MERN+Stack+Developer;Building+Real-World+Products;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+%7C+DSA+Enthusiast;MERN+Stack+Developer;Exploring+AI+%2F+ML;CSE+Undergraduate+%E2%80%A2+2028)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge"/>
@@ -23,219 +23,118 @@
 </p>
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=RounakKumarAgarwal&style=for-the-badge&color=blueviolet)
-![](https://img.shields.io/github/followers/RounakKumarAgarwal?style=for-the-badge)
-![](https://img.shields.io/github/stars/RounakKumarAgarwal?style=for-the-badge)
-
+<img src="https://komarev.com/ghpvc/?username=RounakKumarAgarwal&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 </p>
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I'm a **Computer Science Engineering undergraduate** passionate about building scalable software and solving real-world problems.
-I enjoy designing clean user experiences, developing robust backend systems, and continuously improving my problem-solving skills through **Data Structures & Algorithms**.
+I'm a **Computer Science Engineering undergraduate (Class of 2028)** who enjoys building full-stack web applications and sharpening my problem-solving through **Data Structures & Algorithms in Java**.
 
-Currently I'm focused on mastering the **MERN Stack**, strengthening my backend development skills, and building production-ready applications.
+Right now I'm focused on getting genuinely good at the **MERN stack**, writing cleaner backend code, and shipping projects that actually run in production rather than just sit in a repo. I'm also increasingly drawn to **AI/ML** — I built [HireSenseAI](https://github.com/RounakKumarAgarwal/HireSenseAI) to get hands-on with real ML and RAG pipelines instead of just reading about them.
 
-### Open To
-- Software Engineering Internships
-- Full Stack Development
-- Open Source Contributions
-- Hackathons
-- AI & ML Projects
+**Open to:** Software Engineering Internships · Full-Stack Development · AI/ML Projects · Open Source · Hackathons
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Languages
+**Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
 </p>
 
-## Frontend
+**Frontend**
 <p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap"/>
 </p>
 
-## Backend
+**Backend & Databases**
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
 
-## Tools
+**AI / ML**
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow"/>
+</p>
+
+**Tools**
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 </p>
 
 ---
 
-# AI / ML Interests
+## 🧠 AI / ML Interests
 
-| Domain | Level | Currently Exploring |
-|---------|------|--------------------|
-| Machine Learning | Beginner | Scikit-Learn |
-| Deep Learning | Beginner | Neural Networks |
-| Generative AI | Intermediate | LLMs & RAG |
-| Prompt Engineering | Intermediate | OpenAI APIs |
-| NLP | Beginner | Transformers |
+I'm actively learning AI/ML by building projects, not just following tutorials. My focus is on the practical side — understanding how models get trained, evaluated, and wired into real applications.
 
----
-
-# Featured Projects
-
-<details open>
-<summary><b>📸 Pixie Photo Booth</b></summary>
-
-### Overview
-A modern full-stack website built for Pixie, a professional photo booth business. It enables customers to explore services, submit bookings, and share reviews through an elegant and responsive interface.
-
-| Feature | Details |
-|----------|---------|
-| **Tech Stack** | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB |
-| **Database** | MongoDB Atlas |
-| **Deployment** | Vercel |
-| **Security** | Environment Variables (.env), MongoDB Authentication |
-| **Highlights** | Booking System, Customer Reviews, Responsive UI |
-
-### Key Features
-- Online booking form
-- Customer review system
-- Responsive modern UI
-- MongoDB Atlas integration
-- REST API backend
-- Production deployment
-
-**🔗 Live Demo:** [pixie.zone](https://pixie.zone/)
-**📂 Repository:** [github.com/RounakKumarAgarwal/Pixie-PhotoBooth](https://github.com/RounakKumarAgarwal/Pixie-PhotoBooth)
-
-</details>
+- **Machine Learning** — classification & ranking with scikit-learn (applied in HireSenseAI).
+- **Generative AI & RAG** — building retrieval-augmented pipelines with vector search (FAISS) and LLM APIs (Groq).
+- **Currently exploring** — neural network fundamentals, NLP/transformers, and prompt engineering.
+- **Next up** — deepening my grasp of the math behind ML and experimenting with larger datasets.
 
 ---
 
-<details>
-<summary><b>🏡 Stayvora</b></summary>
+## Featured Projects
 
-### Overview
-A full-stack accommodation booking platform inspired by Airbnb. Users can browse listings, upload images, select locations using interactive maps, and manage properties.
+### 📸 [Pixie Photo Booth](https://github.com/RounakKumarAgarwal/Pixie-PhotoBooth)
+A production website for **Pixie** (a professional photo booth business), built end-to-end during my software development internship. Customers can browse services, submit bookings, and leave reviews through a responsive interface.
 
-| Feature | Details |
-|----------|---------|
-| **Tech Stack** | Node.js, Express.js, MongoDB, EJS |
-| **Cloud** | Cloudinary |
-| **Maps** | Leaflet + OpenStreetMap |
-| **Validation** | Joi |
-| **Authentication** | Passport.js |
-
-### Features
-- Property Listings
-- Interactive Maps
-- Image Uploads
-- Authentication
-- Reviews
-- CRUD Operations
-- Cloud Image Storage
-
-**🔗 Live Demo:** [stayvora-tx8h.onrender.com](https://stayvora-tx8h.onrender.com)
-**📂 Repository:** [github.com/RounakKumarAgarwal/Stayvora](https://github.com/RounakKumarAgarwal/Stayvora)
-
-</details>
+`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express` · `MongoDB Atlas`
+🔗 **Live:** [pixie.zone](https://pixie.zone/)
 
 ---
 
-<details>
-<summary><b>🌍 Local Community Help Portal</b></summary>
+### 🤖 [HireSenseAI](https://github.com/RounakKumarAgarwal/HireSenseAI)
+An AI-powered recruitment tool that screens and ranks resumes and helps with interview prep. Parses resumes, predicts candidate suitability, and uses a RAG pipeline for relevant Q&A.
 
-### Overview
-Hackathon project focused on improving community collaboration through a centralized help platform where users can request or provide assistance efficiently.
-
-| Feature | Details |
-|----------|---------|
-| **Tech Stack** | HTML, CSS, JavaScript |
-| **Purpose** | Community Support |
-| **Category** | Social Impact |
-| **Recognition** | HackQuest Project |
-
-### Features
-- User Friendly Interface
-- Community Assistance
-- Modern Responsive Design
-- Social Impact Focus
-
-**📂 Repository:** *(coming soon)*
-
-</details>
+`Python` · `Streamlit` · `scikit-learn` · `FAISS` · `Groq LLM (RAG)`
 
 ---
 
-<details>
-<summary><b>🎮 Simon Says Game</b></summary>
+### 🏡 [Stayvora](https://github.com/RounakKumarAgarwal/Stayvora)
+A full-stack vacation-rental platform inspired by Airbnb. Users can list properties, upload images to the cloud, pick locations on an interactive map, and leave reviews — with full authentication and CRUD.
 
-### Overview
-A browser-based memory game developed using JavaScript that challenges users to repeat increasingly complex sequences.
-
-| Feature | Details |
-|----------|---------|
-| **Tech Stack** | HTML, CSS, JavaScript |
-| **Difficulty** | Dynamic |
-| **Focus** | DOM Manipulation |
-
-### Features
-- Random Pattern Generation
-- Increasing Difficulty
-- Interactive Animations
-- Keyboard & Mouse Events
-- Score Tracking
-
-**📂 Repository:** *(coming soon)*
-
-</details>
+`Node.js` · `Express` · `MongoDB` · `EJS` · `Passport.js` · `Cloudinary` · `Leaflet`
+🔗 **Live:** [stayvora-tx8h.onrender.com](https://stayvora-tx8h.onrender.com)
 
 ---
 
-# Experience
+### 🌦️ [Weather App](https://github.com/RounakKumarAgarwal/Weather-App)
+A clean JavaScript app that fetches and displays live weather data for any city via a public weather API.
 
-### 💼 Full-Stack Web Developer
-**Freelance Projects**
-**2025 – Present**
-
-- Developed responsive web applications using the MERN Stack.
-- Built RESTful APIs with Express.js.
-- Designed MongoDB database schemas.
-- Integrated cloud services and deployment platforms.
-- Focused on scalable and maintainable software architecture.
-
-**Skills**
-`Java` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB` • `React` • `Git` • `REST APIs`
+`HTML` · `CSS` · `JavaScript`
 
 ---
 
-# Achievements
+## Experience
 
-| 🏆 Recognition | Details |
-|----------------|---------|
-| 🥉 HackQuest / COGNEBULA | Secured **3rd Prize** for developing the **Local Community Help Portal** |
-| 🥇 Path to Programming | Winner of the programming competition conducted by the college |
-| 💻 DSA | Actively solving Data Structures & Algorithms problems in Java |
-| 🌱 Open Source | Continuously learning and contributing to development projects |
+**Software Development Intern**
+*Built [pixie.zone](https://pixie.zone/) — a live production website for a photo booth business.*
 
----
+- Developed a full-stack web application end-to-end using Node.js, Express, and MongoDB.
+- Built the booking and customer-review systems with a REST API backend.
+- Designed MongoDB schemas and deployed the app to production.
 
-# Leadership & Activities
-
-- 👨‍💻 Active Full-Stack Developer
-- 🚀 Hackathon Participant
-- 📚 Continuous Learner
-- 🤝 Open Source Enthusiast
-- ☕ Java & DSA Practitioner
+`JavaScript` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `Git`
 
 ---
 
-# 💻 Coding Profiles
+## Achievements
+
+- 🥉 **3rd Prize — HackQuest / COGNEBULA** for the Local Community Help Portal.
+- 🥇 **Winner — "Path to Programming"**, my college's programming competition.
+- 🦈 GitHub **Pull Shark** & **YOLO** achievements.
+- 💻 Actively solving **DSA problems in Java**.
+
+---
+
+## Coding Profiles
 
 <div align="center">
 
@@ -256,24 +155,26 @@ A browser-based memory game developed using JavaScript that challenges users to 
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RounakKumarAgarwal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RounakKumarAgarwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakKumarAgarwal&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br/>
 
-<br>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=RounakKumarAgarwal&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RounakKumarAgarwal&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RounakKumarAgarwal&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
@@ -281,137 +182,42 @@ A browser-based memory game developed using JavaScript that challenges users to 
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RounakKumarAgarwal&theme=tokyo-night&hide_border=true"/>
+
+![Snake animation](https://raw.githubusercontent.com/RounakKumarAgarwal/RounakKumarAgarwal/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
 
-# 📌 Developer Metrics
-
-| Category | Details |
-|----------|---------|
-| 💻 Primary Language | Java |
-| 🌐 Web Stack | MERN Stack |
-| 📚 Learning | System Design, React, Backend Development |
-| 🎯 Focus | Full-Stack Development & DSA |
-| ☁️ Cloud | MongoDB Atlas, Vercel |
-| 🛠 IDE | VS Code |
-| 🔧 Version Control | Git & GitHub |
-| 🚀 Deployment | Vercel |
-
----
-
-# 📈 2026 Goals
-
-- ✅ Solve **500+ DSA Problems**
-- ✅ Master the MERN Stack
-- ✅ Learn System Design
-- ✅ Build Scalable Full-Stack Projects
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
-- ✅ Improve Competitive Programming Rating
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/RounakKumarAgarwal/RounakKumarAgarwal/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-
----
-
-# 🚀 Current Focus
+## 🎯 Currently
 
 ```yaml
 Learning:
-  - Advanced React
-  - Backend Development
-  - System Design
-  - Data Structures & Algorithms
-  - Machine Learning Fundamentals
+  - Advanced React & Next.js
+  - Backend Development & System Design
+  - Data Structures & Algorithms (Java)
+  - AI/ML fundamentals & RAG pipelines
 Building:
-  - Stayvora
-  - Pixie Photo Booth
-  - Full Stack Portfolio
-  - Open Source Projects
+  - Full-stack projects with the MERN stack
+  - AI-powered tools (HireSenseAI)
 Exploring:
-  - Docker
-  - AWS Cloud
-  - CI/CD
-  - TypeScript
-  - Next.js
-Open To:
-  - Software Engineering Internships
-  - Open Source Contributions
-  - Hackathons
-  - Freelance Projects
+  - TypeScript, Docker, CI/CD
+  - Neural networks & NLP/transformers
+Goal for 2026:
+  - Land a Software Engineering internship
+  - Solve 500+ DSA problems
 ```
 
 ---
 
-# 📫 Connect With Me
-
 <div align="center">
 
-<a href="mailto:agarwalrounak2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/rounak-kumar-agarwal-39b429338">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/RounakKumarAgarwal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+> *"First, solve the problem. Then, write clean, scalable, and maintainable code."*
 
-</div>
-
----
-
-# 💜 Developer Philosophy
-
-<div align="center">
-
-> **"First, solve the problem. Then, write clean, scalable, and maintainable code."**
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-- ☕ Java is my primary programming language.
-- 🌐 Passionate about Full-Stack Web Development.
-- 📚 I enjoy solving Data Structures & Algorithms problems.
-- 🚀 I love building real-world software projects.
-- 🤝 Always eager to learn new technologies and collaborate.
-
----
-
-# 💻 Profile Summary
-
-| Area | Status |
-|------|--------|
-| 🎓 Education | B.Tech Computer Science Engineering |
-| 💼 Role | Full-Stack Developer |
-| 🌐 Stack | MERN |
-| ☕ Language | Java |
-| 📚 DSA | Active Learner |
-| 🚀 Projects | Production Ready |
-| 🌱 Currently Learning | React • System Design • AI/ML |
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-If you like my work, consider giving a ⭐ to my repositories.
+### ⭐ Thanks for visiting — feel free to star a repo if you find it useful!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:7F5AF0"/>
 

@@ -1,183 +1,274 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:7F5AF0&text=Rounak%20Kumar%20Agarwal&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:7F5AF0&text=Rounak%20Kumar%20Agarwal&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+%7C+DSA+Enthusiast;MERN+Stack+Developer;Exploring+AI+%2F+ML;CSE+Undergraduate+%E2%80%A2+2028)](https://git.io/typing-svg)
+<br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graduation-2028-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/India-🇮🇳-7F5AF0?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Java+%26+DSA+Enthusiast;Open-Source+Contributor;Building+Projects+That+Solve+Real+Problems;Exploring+AI%2C+ML+%26+Generative+AI" alt="Typing SVG"/>
 
-<p align="center">
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-138808?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
 <a href="mailto:agarwalrounak2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/rounak-kumar-agarwal-39b429338">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/RounakKumarAgarwal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-</p>
+<a href="https://leetcode.com/u/Rounakagarwal1/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RounakKumarAgarwal&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RounakKumarAgarwal&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a **Computer Science Engineering undergraduate (Class of 2028)** who enjoys building full-stack web applications and sharpening my problem-solving through **Data Structures & Algorithms in Java**.
+## 👋 Hi, I'm Rounak!
 
-Right now I'm focused on getting genuinely good at the **MERN stack**, writing cleaner backend code, and shipping projects that actually run in production rather than just sit in a repo. I'm also increasingly drawn to **AI/ML** — I built [HireSenseAI](https://github.com/RounakKumarAgarwal/HireSenseAI) to get hands-on with real ML and RAG pipelines instead of just reading about them.
+### *I don't just build projects — I aim to build products.*
 
-**Open to:** Software Engineering Internships · Full-Stack Development · AI/ML Projects · Open Source · Hackathons
+</div>
 
----
+I'm a **Computer Science Engineering undergraduate** passionate about software development, problem-solving, and building applications that solve real-world problems.
 
-## Tech Stack
+My primary focus is **full-stack web development**, with a growing interest in backend engineering, system design, and AI-powered applications. I enjoy turning ideas into working products, learning by building, and contributing to open-source projects.
 
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
-</p>
+Currently, I'm strengthening my **Data Structures and Algorithms skills in Java**, exploring AI/ML, and collaborating with open-source communities to become a better engineer.
 
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-</p>
+* 💻 Building full-stack applications using JavaScript, React, Node.js, Express, and MongoDB.
+* 🧠 Practicing DSA and improving problem-solving skills in Java.
+* 🌱 Exploring AI/ML, LLMs, RAG, and AI-powered software.
+* 🌍 Contributing to open-source projects and learning from experienced developers.
+* 🏆 Participated in hackathons and programming competitions.
+* 🤝 Interested in software engineering internships, open source, and collaborative projects.
 
-**Backend & Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>
-
-**AI / ML**
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow"/>
-</p>
-
-**Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-</p>
+**Open to collaborating on:** Open Source · Full-Stack Development · Backend Engineering · AI-Powered Applications · Hackathons
 
 ---
 
-## 🧠 AI / ML Interests
+## 🛠️ Languages, Technologies & Tools
 
-I'm actively learning AI/ML by building projects, not just following tutorials. My focus is on the practical side — understanding how models get trained, evaluated, and wired into real applications.
+<div align="center">
 
-- **Machine Learning** — classification & ranking with scikit-learn (applied in HireSenseAI).
-- **Generative AI & RAG** — building retrieval-augmented pipelines with vector search (FAISS) and LLM APIs (Groq).
-- **Currently exploring** — neural network fundamentals, NLP/transformers, and prompt engineering.
-- **Next up** — deepening my grasp of the math behind ML and experimenting with larger datasets.
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Programming Languages"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" alt="Frontend Technologies"/>
+
+### Backend Development & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies"/>
+
+### AI / ML & Generative AI
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-Exploring-7F5AF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-Learning-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-00897B?style=flat-square"/>
+
+### Developer Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render,cloudflare" alt="Developer Tools"/>
+
+</div>
 
 ---
 
-## Featured Projects
-
-### 📸 [Pixie Photo Booth](https://github.com/RounakKumarAgarwal/Pixie-PhotoBooth)
-A production website for **Pixie** (a professional photo booth business), built end-to-end during my software development internship. Customers can browse services, submit bookings, and leave reviews through a responsive interface.
-
-`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express` · `MongoDB Atlas`
-🔗 **Live:** [pixie.zone](https://pixie.zone/)
-
----
+## 🚀 Featured Projects
 
 ### 🤖 [HireSenseAI](https://github.com/RounakKumarAgarwal/HireSenseAI)
-An AI-powered recruitment tool that screens and ranks resumes and helps with interview prep. Parses resumes, predicts candidate suitability, and uses a RAG pipeline for relevant Q&A.
 
-`Python` · `Streamlit` · `scikit-learn` · `FAISS` · `Groq LLM (RAG)`
+**AI-powered recruitment and resume analysis**
+
+An AI-powered recruitment application designed to help analyze resumes, assess candidate suitability, and support interview preparation.
+
+* Resume parsing and candidate analysis.
+* Machine learning-based candidate suitability prediction.
+* Retrieval-Augmented Generation (RAG) for contextual question answering.
+* Exploring practical applications of AI in recruitment.
+
+**Tech Stack:** `Python` · `Streamlit` · `Scikit-learn` · `FAISS` · `LLM APIs`
 
 ---
 
 ### 🏡 [Stayvora](https://github.com/RounakKumarAgarwal/Stayvora)
-A full-stack vacation-rental platform inspired by Airbnb. Users can list properties, upload images to the cloud, pick locations on an interactive map, and leave reviews — with full authentication and CRUD.
 
-`Node.js` · `Express` · `MongoDB` · `EJS` · `Passport.js` · `Cloudinary` · `Leaflet`
-🔗 **Live:** [stayvora-tx8h.onrender.com](https://stayvora-tx8h.onrender.com)
+**Full-stack vacation rental platform**
 
----
+A vacation rental application inspired by Airbnb, allowing users to explore properties, create listings, upload images, and share reviews.
 
-### 🌦️ [Weather App](https://github.com/RounakKumarAgarwal/Weather-App)
-A clean JavaScript app that fetches and displays live weather data for any city via a public weather API.
+* User authentication and authorization.
+* Listing creation, editing, deletion, and review functionality.
+* Cloudinary integration for image uploads.
+* Interactive maps using Leaflet and OpenStreetMap.
+* Backend deployment and database integration.
 
-`HTML` · `CSS` · `JavaScript`
+**Tech Stack:** `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `EJS` · `Passport.js` · `Cloudinary` · `Leaflet`
 
----
-
-## Experience
-
-**Software Development Intern**
-*Built [pixie.zone](https://pixie.zone/) — a live production website for a photo booth business.*
-
-- Developed a full-stack web application end-to-end using Node.js, Express, and MongoDB.
-- Built the booking and customer-review systems with a REST API backend.
-- Designed MongoDB schemas and deployed the app to production.
-
-`JavaScript` · `Node.js` · `Express` · `MongoDB` · `REST APIs` · `Git`
+🌐 **Live Demo:** [Stayvora](https://stayvora-tx8h.onrender.com)
 
 ---
 
-## Achievements
+### 📸 [Pixie Photo Booth](https://github.com/RounakKumarAgarwal/Pixie-PhotoBooth)
 
-- 🥉 **3rd Prize — HackQuest / COGNEBULA** for the Local Community Help Portal.
-- 🥇 **Winner — "Path to Programming"**, my college's programming competition.
-- 🦈 GitHub **Pull Shark** & **YOLO** achievements.
-- 💻 Actively solving **DSA problems in Java**.
+**Full-stack website for a photo booth business**
+
+A website built to provide customers with a convenient way to explore photo booth services and interact with the business online.
+
+* Responsive user interface.
+* Booking and customer-review functionality.
+* Backend APIs using Express.js.
+* MongoDB database integration.
+* Production deployment.
+
+**Tech Stack:** `HTML` · `CSS` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB`
+
+🌐 **Website:** [pixie.zone](https://pixie.zone/)
 
 ---
 
-## Coding Profiles
+### 🎯 QueuePilot — Smart Queue Management System
+
+**Making queues smarter through scheduling and concurrency**
+
+A smart queue management system designed around token issuance, queue scheduling, and multi-counter assignment.
+
+* User, staff, and admin roles.
+* JWT-based authentication.
+* Token lifecycle: waiting → assigned → in-service → served.
+* Concurrency handling for simultaneous queue requests.
+* Priority-based scheduling and estimated waiting times.
+* Exploring min-heaps and efficient counter assignment algorithms.
+
+**Tech Stack:** `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `bcryptjs`
+
+---
+
+### 🗣️ [DebateAI](https://github.com/AOSSIE-Org/DebateAI)
+
+**Open-source AI-assisted debate platform**
+
+Contributing to an open-source debate platform and exploring improvements to its real-time collaboration and AI-powered feedback experience.
+
+Areas of interest include:
+
+* Improving the debate experience and real-time synchronization.
+* Making debate transcripts more reliable and accessible.
+* Exploring AI-generated feedback and debate performance analysis.
+* Helping identify, investigate, and fix application bugs.
+
+**Focus:** `Open Source` · `React` · `JavaScript` · `AI Integration` · `Debugging`
+
+---
+
+## 🌱 Open Source Journey
+
+I believe open source is one of the best ways to learn software engineering beyond personal projects.
+
+I'm interested in contributing to projects where I can understand an existing codebase, investigate bugs, implement features, and collaborate with maintainers.
+
+**What I'm working on:**
+
+* 🔍 Understanding unfamiliar repositories and their architecture.
+* 🐛 Reproducing issues and developing reliable fixes.
+* 🔧 Building features and submitting meaningful pull requests.
+* 🤝 Collaborating with maintainers and other contributors.
+* 📚 Learning software engineering practices from real-world codebases.
+
+**Interested in:** AI-powered applications · Full-stack development · Developer tools · Backend systems
+
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/RounakKumarAgarwal?tab=repositories)
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥉%20HackQuest%20%2F%20COGNEBULA-3rd%20Prize-DAA520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🥇%20Path%20to%20Programming-Winner-6C63FF?style=for-the-badge"/>
+
+</div>
+
+* 🥉 **Third Prize — HackQuest / COGNEBULA '26:** Recognized for the Local Community Help Portal project at a college hackathon.
+* 🥇 **Winner — Path to Programming '25:** Won a programming competition at college.
+* 🦈 **GitHub Achievements:** Earned Pull Shark and YOLO badges.
+* 💡 **Competitive Programming:** Practicing algorithmic problem-solving and improving DSA fundamentals in Java.
+* 🌍 **IEEE:** Involved in IEEE-related student activities.
+
+---
+
+## 💻 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Rounakagarwal1/">
-<img src="https://img.shields.io/badge/LeetCode-Rounakagarwal1-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Rounakagarwal1-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
+
 <a href="https://codeforces.com/profile/RounakkumarAgarwal">
-<img src="https://img.shields.io/badge/Codeforces-RounakkumarAgarwal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-RounakkumarAgarwal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
+
 <a href="https://www.codechef.com/users/rounakagarwal2">
-<img src="https://img.shields.io/badge/CodeChef-rounakagarwal2-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-rounakagarwal2-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
+
 <a href="https://codolio.com/profile/RounakAgarwal">
-<img src="https://img.shields.io/badge/Codolio-RounakAgarwal-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codolio-RounakAgarwal-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RounakKumarAgarwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakKumarAgarwal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RounakKumarAgarwal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakKumarAgarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=RounakKumarAgarwal&theme=tokyonight&hide_border=true"/>
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=RounakKumarAgarwal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RounakKumarAgarwal&theme=tokyo-night&hide_border=true"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RounakKumarAgarwal&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="95%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RounakKumarAgarwal&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RounakKumarAgarwal&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
 </div>
 
 ---
@@ -186,39 +277,71 @@ A clean JavaScript app that fetches and displays live weather data for any city 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/RounakKumarAgarwal/RounakKumarAgarwal/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/RounakKumarAgarwal/RounakKumarAgarwal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
 ---
 
-## 🎯 Currently
+## 🎯 What I'm Focusing On
 
 ```yaml
-Learning:
-  - Advanced React & Next.js
-  - Backend Development & System Design
-  - Data Structures & Algorithms (Java)
-  - AI/ML fundamentals & RAG pipelines
-Building:
-  - Full-stack projects with the MERN stack
-  - AI-powered tools (HireSenseAI)
-Exploring:
-  - TypeScript, Docker, CI/CD
-  - Neural networks & NLP/transformers
-Goal for 2026:
-  - Land a Software Engineering internship
-  - Solve 500+ DSA problems
+Currently_Learning:
+  - Data Structures and Algorithms in Java
+  - Advanced JavaScript and React
+  - Backend development with Node.js and Express
+  - Database design and MongoDB
+  - AI/ML fundamentals and RAG applications
+
+Currently_Building:
+  - QueuePilot: Smart Queue Management System
+  - Full-stack web applications
+  - AI-powered software projects
+
+Open_Source:
+  - Exploring real-world codebases
+  - Fixing bugs and implementing features
+  - Collaborating with project maintainers
+
+Exploring_Next:
+  - TypeScript
+  - System Design
+  - Docker and CI/CD
+  - NLP and Transformer architectures
+
+Career_Goals:
+  - Secure a software engineering internship
+  - Become a stronger backend and full-stack engineer
+  - Make meaningful open-source contributions
+  - Build software that solves real problems
 ```
 
 ---
 
+## 🤝 Let's Connect!
+
+I'm always happy to connect with developers, collaborate on interesting projects, learn from the community, and contribute to meaningful software.
+
 <div align="center">
 
-> *"First, solve the problem. Then, write clean, scalable, and maintainable code."*
+<a href="mailto:agarwalrounak2005@gmail.com">
+<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-### ⭐ Thanks for visiting — feel free to star a repo if you find it useful!
+<a href="https://linkedin.com/in/rounak-kumar-agarwal-39b429338">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:7F5AF0"/>
+<a href="https://github.com/RounakKumarAgarwal">
+<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+> *"Don't just write code. Understand the problem, build the solution, and keep improving."*
+
+### ⭐ If you find something useful in my repositories, consider giving it a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:7F5AF0" width="100%"/>
 
 </div>

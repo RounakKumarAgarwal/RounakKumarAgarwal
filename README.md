@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RounakKumarAgarwal&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-Gowda26&label=Profile%20Views&color=blue&style=flat)](https://visitcount.itsvg.in)
 
 </div>
 
